@@ -6,3 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+config.py
+__pycache__
+.ipynb_checkpoints

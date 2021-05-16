@@ -1,11 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/config.py
+__pycache__
+.ipynb_checkpoints
 # Datasource local storage ignored files
 /../../../../../../:\Users\dadoi\PycharmProjects\Binance\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-config.py
-__pycache__
-.ipynb_checkpoints
